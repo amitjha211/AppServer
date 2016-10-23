@@ -1,0 +1,20 @@
+<grid>
+	<path>\getdata\Accounts\AccountGroup</path>
+	<cols>
+		<col>
+			<datafield>GroupName</datafield>
+			<title>Account Group Name</title>
+			<width>200<width>
+		</col>
+		<col>
+			<datafield>NatureOfGroups</datafield>
+			<title>Nature Of Groups</title>
+			<width>200<width>
+		</col>
+		<col>
+			<datafield>GroupPath</datafield>
+			<title>Group Hierarchy Path</title>
+			<width>400<width>
+		</col>
+	</cols>
+</grid>

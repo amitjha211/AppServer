@@ -1,0 +1,2 @@
+<classname dllname="DAL">Unknown</classname>
+<sql>select * from vmItem where 1=1</sql>

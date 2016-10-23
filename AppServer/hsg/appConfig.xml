@@ -1,0 +1,7 @@
+<appConfig>
+	<applicationTitle>Account Software</applicationTitle>
+	<defaultConnectionString type="mssql" name="main">Data Source=.\SQLEXPRESS;initial Catalog=HousingSociety2;user id=sa;pwd=sa1983</defaultConnectionString>
+	<connections>
+		<connectionString type="mssql" name="main">Data Source=.\SQLEXPRESS;initial Catalog=HousingSociety2;user id=sa;pwd=sa1983</connectionString>
+	</connections>
+</appConfig>

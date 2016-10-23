@@ -1,0 +1,14 @@
+<data>
+	<info name="AccountGroup" connection="main">
+		<classPath>NTier.clsReadSimple</classPath>
+		<viewName>vmAccountGroup</viewName>
+	</info>
+	<info name="AccountLedger">
+		<classPath>NTier.clsReadSimple</classPath>
+		<viewName>vmAccountGroup</viewName>
+	</info>
+	<info name="AccountYear">
+		<classPath>NTier.clsReadSimple</classPath>
+		<viewName>vmAccountGroup</viewName>
+	</info>
+</data>
